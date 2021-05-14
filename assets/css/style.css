@@ -584,6 +584,7 @@ section {
   font-size: 14px;
   text-align: center;
   padding: 30px 0;
+  margin: 0 0 0 100px;
 }
 
 #footer h3 {
@@ -593,6 +594,7 @@ section {
   font-family: "Poppins", sans-serif;
   padding: 0;
   margin: 0 0 15px 0;
+  text-align: center;
 }
 
 #footer p {
@@ -604,6 +606,7 @@ section {
 
 #footer .social-links {
   margin: 0 0 40px 0;
+  text-align: center;
 }
 
 #footer .social-links a {
